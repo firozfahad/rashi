@@ -1,0 +1,23 @@
+body {
+  background-color: #03353b;
+  font-family: 'Courier New', Courier, monospace; /* Vintage-style font */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.translation {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
